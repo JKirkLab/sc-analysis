@@ -1,2 +1,7 @@
 data/
 .DS_Store
+._.DS_Store
+.ipynb_checkpoints/
+gmon.out
+._HCM_output.csv
+chaffin_CM1.h5ad
